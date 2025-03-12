@@ -1,2 +1,3 @@
 # Arduino-based-fingerprint-keypad-authentication
 DESIGN AND IMPLEMENTATION OF DOOR ACCESS SYSTEM USING  ARDUINO (FINGERPRINT AND KEYPAD)
+During my final year at Ghana Communication Technology University in 2023. For my final project, I designed and implemented a door access system based on Arduino technology that combined fingerprint recognition and keypad authentication. This project aimed to improve security at South Akim Rural Bank in Ghana's Eastern Region, and it demonstrated my commitment to using technology to solve real-world problems. These experiences provided me with a strong foundation in programming, system design, and project management, which fueled my desire to conduct advanced research in information technology.
